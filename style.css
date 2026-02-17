@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    
+    background: url("Library.PNG") no-repeat center center fixed;
+    background-size: cover;
+
+}
+h3{
+background-color:Coral;
+}
+
+
+header {
+    background-color: Coral;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+.container {
+    width: 900px;
+    margin: 60px auto;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.container h2 {
+    color: #ff6f61;
+}
+
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
